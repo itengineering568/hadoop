@@ -1,0 +1,5 @@
+Hello world Hadoop
+Hello Hadoop MapReduce
+Hadoop MapReduce is fun
+This is a test file for MapReduce
+Hadoop helps to process big data
